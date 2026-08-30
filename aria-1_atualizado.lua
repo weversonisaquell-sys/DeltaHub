@@ -753,11 +753,11 @@ local function makeBuffTool(toolName, buffType)
             hum.WalkSpeed = 42
         elseif buffType == "jump" then
             hum.UseJumpPower = true
-            hum.JumpPower = 14
+            hum.JumpPower = 79
         elseif buffType == "fusion" then
             hum.WalkSpeed = 42
             hum.UseJumpPower = true
-            hum.JumpPower = 14
+            hum.JumpPower = 37
         end
     end
 
